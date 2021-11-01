@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url(https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandtour/landing/wp-content/uploads/2017/08/pexels-photo-225630.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-block: 10rem;
+    padding-inline: 1rem;
+}
